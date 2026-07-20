@@ -14,5 +14,3 @@
 # print(data)
 
 
-x="mahi"
-print(x)
