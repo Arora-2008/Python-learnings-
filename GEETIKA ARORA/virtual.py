@@ -14,5 +14,5 @@
 # print(data)
 
 
-x="singh" 
+x="mahi"
 print(x)
